@@ -1,0 +1,2 @@
+model/CV_CNN/Model_CV_CNN.pth filter=lfs diff=lfs merge=lfs -text
+model/2D_CNN/Model_CNN_DoA_class_Data_N16_K2_res1_lowSNR_new_training_RQ_Adam_dropRoP_0_7.h5 filter=lfs diff=lfs merge=lfs -text
