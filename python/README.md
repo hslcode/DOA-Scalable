@@ -1,2 +1,6 @@
-DCN<->1D CNN;
-CNN <->2D CNN;
+- DCN<->1D CNN;
+- CNN <->2D CNN;
+- The DNN use the tensorflow 1.X;
+- The 1D CNN (DCN) and 2D CNN (CNN) use the tensorflow 2.X;
+- The CV CNN use the pytorch 2.X;
+- More requirements can be found in  the 'requirements.txt'.

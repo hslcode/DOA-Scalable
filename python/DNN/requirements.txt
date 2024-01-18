@@ -1,0 +1,8 @@
+h5py==3.8.0
+matplotlib==3.5.3
+numpy==1.21.6
+scikit_learn==1.0.2
+scipy==1.7.3
+#tensorflow==1.15.0
+#or
+tensorflow_gpu==1.15.0
